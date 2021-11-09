@@ -1,0 +1,33 @@
+body {
+  background-color: #fff176;
+  text-align: center;
+}
+
+
+h1 {
+  color: #d50000;
+  font-family: verdana;
+  font-size: 200%;
+}
+
+
+p {
+  color: #d50000;
+  font-family: verdana;
+  font-size: 200%;
+  
+}
+
+div {
+  height: 100px;
+  width: 50%;
+  background-color: #4caf4f;
+  margin: auto;
+  text-align: center;
+  font-size: 150%;
+}
+
+img {
+	height:400px;
+    width:800px;
+}

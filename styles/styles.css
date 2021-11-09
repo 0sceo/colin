@@ -1,0 +1,35 @@
+body {
+  background-color: black;
+  text-align: center;
+}
+
+
+h1 {
+  color: white;
+  font-family: verdana;
+  font-size: 200%;
+}
+
+
+p {
+  color: white;
+  font-family: verdana;
+  font-size: 200%;
+  
+}
+
+div {
+  height: 100px;
+  width: 50%;
+  background-color: gray;
+  margin: auto;
+  text-align: center;
+  font-size: 150%;
+}
+
+img {
+	height:400px;
+    width:800px;
+}
+	
+	
